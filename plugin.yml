@@ -1,0 +1,17 @@
+name: WorldChatPrefixer
+version: 1.4
+main: edu.whimc.worldchatprefixer.WorldChatPrefixer
+author: Jack Henhapl
+description: Chat formatter for world names
+api-version: 1.13
+load: POSTWORLD
+softdepend: [Multiverse-Core]
+commands:
+  worldchatprefixer:
+    description: Change world's chat prefix
+    aliases: [wcp]
+    permission: worldchatprefixer.admin
+permissions:
+  worldchatprefixer.admin:
+    description: Main permission for WorldChatPrefixer
+    default: op
