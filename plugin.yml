@@ -1,5 +1,5 @@
 name: WorldChatPrefixer
-version: 1.4
+version: 1.5.4
 main: edu.whimc.worldchatprefixer.WorldChatPrefixer
 author: Jack Henhapl
 description: Chat formatter for world names
