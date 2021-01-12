@@ -45,7 +45,7 @@
 	
 	<!-- Repo for plugin -->
 	<scm>
-		<connection>scm:git:git@github.com:whimc/Science-Tools.git</connection>
+		<connection>scm:git:git@github.com:whimc/World-Chat-Prefixer.git</connection>
 		<tag>HEAD</tag>
 	</scm>
 
