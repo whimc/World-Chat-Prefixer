@@ -45,7 +45,7 @@ public class WCPInfo extends AbstractSubCommand {
 
         String format = plugin.getConfig().getString("format");
         Utils.msg(sender,
-                "&eGlobal Chat Format: &f\"" + format + "&f\"",
+                "&eThe Global Chat Format: &f\"" + format + "&f\"",
                 "&6" + world.getName() + "&e Prefix: " + prefix);
         return true;
     }
