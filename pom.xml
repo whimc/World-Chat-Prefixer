@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.whimc</groupId>
 	<artifactId>WHIMC-WorldChatPrefixer</artifactId>
-	<version>1.6.1</version>
+	<version>1.7.0</version>
 	<name>WHIMC World Chat Prefixer</name>
 	<description>Apply pretty prefixes to chat for individual worlds</description>
 
